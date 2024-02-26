@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  canvas {
+    border: 1px solid #ccc;
+    margin-top: 315px;
+    margin-left: -3px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #a1813d;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #tc{
+    position: relative;
+    top:-557px;
+    font-size: 20px;
+    font-family: cursive;
+  }
+
+  #bg{
+    position: relative;
+    top: -585px;
+    margin-left: 248px;
+    font-size: 20px;
+    font-family: cursive;
+  }
+
+  #fs{
+    position: relative;
+    top: -494px;
+    margin-left: 4px;
+    font-size: 20px;
+    font-family: cursive;
+  }
+
+  #ss{
+    position: relative;
+    font-size: 40px;
+    font-family: cursive;
+    margin-left: 90px;
+    top:40px;
+  }
+
+  #backgroundcolorselect{
+    position: relative;
+    top: -460px;
+    margin-left: 253px;
+    width: 102px;
+  }
+
+  #textcolorselect{
+    position: relative;
+    top: -487px;
+    margin-left: 1px;
+    width: 102px;
+  }
+
+  #fontSizeSelect{
+    position: relative;
+    top: -372px;
+    margin-left: -100px;
+    width: 90px;
+
+  }
+  #clearButton{
+    position: relative;
+    top: 14px;
+    margin-left: 274px;
+    width: 100px;
+  }
+
+  #saveButton{
+    position: relative;
+    top: -20px;
+    width: 100px;
+  }
+  #me1{
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 113px;
+    margin-top: -10px;
+  }
+  #me2{
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 81px;
+  }
